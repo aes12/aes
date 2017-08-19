@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head> 
+  <title>Khalid.com</title>
+  <link rel = "shortcut icon" href = "shop.png" type="image/png"/>
+  <link rel="stylesheet" type="text/css" href="style.css"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/prototype/1.7.3.0/prototype.js"></script>
+  </head>
+  <body>
+  <div class="container">
+  <img src="web4.jpg" alt="Image">
+  <form>
+  <div class="form-input">
+  <input type="text" name="username"
+  placeholder="Enter Username">
+  </div>
+  <div class="form-input">
+  <input type="password" name="password"
+  placeholder="Enter Password">
+  </div>
+  <input type="submit" name="submit" value="LOGIN" 
+  class="btn-login"><br>
+  <a href="#">Forget Password?</a>
+  </form>
+  </div>
+  
+ 
+</body>
+</html>
